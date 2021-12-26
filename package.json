@@ -1,0 +1,18 @@
+{
+  "name": "discord-kick-offline",
+  "version": "1.0.0",
+  "description": "Kick people from voice channels, when they are offline on discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Tony Borchert",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
